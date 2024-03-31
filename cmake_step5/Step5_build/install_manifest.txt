@@ -1,0 +1,5 @@
+/home/code1/install/lib/libMathFunctions.a
+/home/code1/install/lib/libSqrtLibrary.a
+/home/code1/install/include/MathFunctions.h
+/home/code1/install/bin/Tutorial
+/home/code1/install/include/TutorialConfig.h

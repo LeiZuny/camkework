@@ -1,0 +1,3 @@
+/home/code1/cmakelearn/step1/Step1_Cmake/CMakeFiles/rebuild_cache.dir
+/home/code1/cmakelearn/step1/Step1_Cmake/CMakeFiles/edit_cache.dir
+/home/code1/cmakelearn/step1/Step1_Cmake/CMakeFiles/Tutorial.dir

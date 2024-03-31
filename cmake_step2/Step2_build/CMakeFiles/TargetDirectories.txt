@@ -1,0 +1,6 @@
+/home/code1/cmake_step2/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/code1/cmake_step2/Step2_build/CMakeFiles/edit_cache.dir
+/home/code1/cmake_step2/Step2_build/CMakeFiles/Tutorial.dir
+/home/code1/cmake_step2/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/code1/cmake_step2/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/code1/cmake_step2/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir

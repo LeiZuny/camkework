@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/code1/cmakelearn/step1/tutorial.cpp
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/home/code1/cmakelearn/step1/TutorialConfig.h
+
+TutorialConfig.h
+

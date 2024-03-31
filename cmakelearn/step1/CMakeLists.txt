@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(Tutorial VERSION 1.0)
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+set(Tutorial_VERSION_MAJOR 2)
+
+configure_file(TutorialConfig.h.in TutorialConfig.h)
+add_executable(Tutorial tutorial.cpp)
+
+
+
+target_include_directories(Tutorial PUBLIC
+                           "${PROJECT_BINARY_DIR}"
+                           )
